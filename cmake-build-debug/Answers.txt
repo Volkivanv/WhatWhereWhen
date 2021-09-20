@@ -1,0 +1,13 @@
+<rainbow>
+<ball>
+<sugar>
+<fire>
+<button>
+<kitten>
+<river>
+<cloud>
+<towel>
+<breath>
+<telephone>
+<rain>
+<darkness>
